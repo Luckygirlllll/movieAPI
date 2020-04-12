@@ -16,6 +16,6 @@
     "joi": "13.1.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "mongoose": "5.0.2"
+    "mongoose": "5.7.5"
   }
 }
